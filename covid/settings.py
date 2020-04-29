@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.gis',
-    'USA'
+    'april24',
+    'sequence',
 ]
 
 MIDDLEWARE = [
@@ -85,6 +86,18 @@ DATABASES = {
         'PORT': '5432'
     }
 }
+
+#DATABASES = {
+ #   'default': {
+  #      'ENGINE': 'django.db.backends.postgresql_psycopg2',
+   #     'NAME': 'covidConfirmed',
+    #    'USER': 'covidadmin1',
+     #   'PASSWORD': 'IUPUI2020',
+      #  'HOST': 'localhost',
+       # 'PORT': '5432'
+   # }
+#}
+
 
 
 # Password validation

@@ -15,7 +15,17 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+#from USA import views
+from april24 import views
+from sequence.views import (sequence, publications, getPublications, getSequence)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('',views.Home.as_view()),
+    path('getPublications/', getPublications, name='getPublications'),
+    path('getSequence/', getSequence, name='getSequence'),
+    path('publications/', publications, name='publicaions'),
+    path('sequence/', sequence, name='sequence'),
 ]
+
+

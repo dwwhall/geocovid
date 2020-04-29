@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Publications</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <style>
+        #publications_table {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        #publications_table td,
+        #publications_table th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        #publications_table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        #publications_table tr:hover {
+            background-color: #ddd;
+        }
+
+        #publications_table th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        button.back_btn>a {
+            text-decoration: none !important;
+            color: white !important;
+        }
+
+        button.back_btn {
+            font-size: large;
+            background: rgb(0, 102, 153);
+            color: white !important;
+            padding: 4px 10px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <div style='width: 90%; margin: auto;'>
+        <button type="button" class='back_btn' style='margin: 2% 0%; float: right;'><a href="/">
+                Back to menu</a></button>
+        <div class="btn-group btn-group-toggle" onchange="changedRadio(event)" data-toggle="buttons"
+            style='margin: 2% 0%;'>
+            <label class="btn btn-secondary active">
+                <input type="radio" name="options" id="author" checked> Author
+            </label>
+            <label class="btn btn-secondary">
+                <input type="radio" name="options" id="year"> Year
+            </label>
+            <label class="btn btn-secondary">
+                <input type="radio" name="options" id="journal"> Journal
+            </label>
+        </div>
+
+        <div id='input_div'>
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" id='author_input' placeholder="Search Author"
+                    aria-label="Author Name" aria-describedby="button-addon1">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" onclick="getResult(event)" type="button"
+                        id="button-addon1">Search</button>
+                </div>
+            </div>
+        </div>
+
+        <div id='data_table_publications' style='width: 100%;' class="d-none">
+            <p id='records_info'></p>
+            <table id='publications_table'>
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Abstract</th>
+                        <th>Year</th>
+                        <th>Journal</th>
+                    </tr>
+                </thead>
+                <tbody id='table_body_data'>
+
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        function changedRadio(e) {
+            console.log(e.target.getAttribute('id'));
+            var type_name = e.target.getAttribute('id')
+            $('#input_div').empty()
+            if (type_name === 'author') {
+                $('#input_div').append(
+                    '<div class="input-group mb-3"><input type="text" class="form-control" id="author_input" placeholder="Search Author" aria-label="Author Name" aria-describedby="button-addon1"></input><div class="input-group-append"><button class="btn btn-outline-secondary" onclick="getResult(event)" type="button" id="button-addon1">Search</button></div></div>'
+                )
+            } else if (type_name === 'year') {
+                $('#input_div').append(
+                    '<div class="input-group mb-3"><input type="text" class="form-control" id="year_input" placeholder="Search year" aria-label="year Name"  aria-describedby="button-addon2"></input><div class="input-group-append"><button class="btn btn-outline-secondary" onclick="getResult(event)" type="button" id="button-addon2">Search</button></div></div>'
+                )
+            } else if (type_name === 'journal') {
+                $('#input_div').append(
+                    '<div class="input-group mb-3"><input type="text" class="form-control" id="journal_input" placeholder="Search Journal" aria-label="Journal Name" aria-describedby="button-addon3"></input><div class="input-group-append"><button class="btn btn-outline-secondary" onclick="getResult(event)" type="button" id="button-addon3">Search</button></div></div>'
+                )
+            }
+
+        }
+        function getResult(e) {
+            console.log(e.target.getAttribute('id'));
+            var search_btn_name = e.target.getAttribute('id');
+            var search_type = 'author'
+            if (search_btn_name === 'button-addon2') {
+                search_type = 'year'
+            } else if (search_btn_name === 'button-addon3') {
+                search_type = 'journal'
+            }
+            var search_text = $('#' + search_type + '_input').val()
+            if (search_text === "") {
+                $('#' + search_type + '_input').removeClass('is-invalid');
+                $('#' + search_type + '_input').addClass('is-invalid');
+                // $('#'+search_type + '_input').after('<p id="error_1_id_num_of_licenses" class="invalid-feedback"><strong>This field is required.</strong></p>')
+            } else {
+                $('#' + search_type + '_input').removeClass('is-invalid');
+                // $('#error_1_id_num_of_licenses').remove()
+                console.log('Now this will be submitted!', search_text);
+                var allow = function (data) {
+                    console.log('Recieved Data: ', data);
+                    $('#table_body_data').empty();
+                    $('#records_info').empty();
+                    var row = ''
+                    if (data['final_list'].length > 0) {
+                        for (var obj in data['final_list']) {
+                            row = '<tr><td>' + data['final_list'][obj]['title'] + '</td><td>' + data['final_list'][obj]['author'] + '</td><td>' + data['final_list'][obj]['abstract'] + '</td><td>' + data['final_list'][obj]['year'] + '</td><td>' + data['final_list'][obj]['journal'] + '</td></tr>'
+                            $('#table_body_data').append(row)
+                        }
+                    } else {
+                        row = '<tr><td>Null</td><td>Null</td><td>Null</td><td>Null</td><td>Null</td></tr>'
+                    }
+                    $('#records_info').append('Records Found: ' + data['final_list'].length);
+                    $('#data_table_publications').removeClass('d-none');
+                }
+                $.ajax({
+                    url: '/getPublications',
+                    type: 'GET',
+                    data: {
+                        search_type,
+                        search_text
+                    },
+                    cache: false,
+                    success: allow
+                });
+            }
+        }
+    </script>
+</body>
+
+</html>

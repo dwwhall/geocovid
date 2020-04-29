@@ -1,0 +1,1842 @@
+[
+{
+  "field_0": "node",
+  "field_1": "Afghanistan",
+  "field_2": "33.0",
+  "field_3": "65.0",
+  "field_4": "1279"
+},
+{
+  "field_0": "node",
+  "field_1": "Albania",
+  "field_2": "41.1533",
+  "field_3": "20.1683",
+  "field_4": "663"
+},
+{
+  "field_0": "node",
+  "field_1": "Algeria",
+  "field_2": "28.0339",
+  "field_3": "1.6596",
+  "field_4": "3007"
+},
+{
+  "field_0": "node",
+  "field_1": "Andorra",
+  "field_2": "42.5063",
+  "field_3": "1.5218",
+  "field_4": "723"
+},
+{
+  "field_0": "node",
+  "field_1": "Angola",
+  "field_2": "-11.2027",
+  "field_3": "17.8739",
+  "field_4": "25"
+},
+{
+  "field_0": "node",
+  "field_1": "Antigua and Barbuda",
+  "field_2": "17.0608",
+  "field_3": "-61.7964",
+  "field_4": "24"
+},
+{
+  "field_0": "node",
+  "field_1": "Argentina",
+  "field_2": "-38.4161",
+  "field_3": "-63.6167",
+  "field_4": "3435"
+},
+{
+  "field_0": "node",
+  "field_1": "Armenia",
+  "field_2": "40.0691",
+  "field_3": "45.0382",
+  "field_4": "1523"
+},
+{
+  "field_0": "node",
+  "field_1": "Australia",
+  "field_2": "-35.4735",
+  "field_3": "149.0124",
+  "field_4": "104"
+},
+{
+  "field_0": "node",
+  "field_1": "Australia",
+  "field_2": "-33.8688",
+  "field_3": "151.2093",
+  "field_4": "2976"
+},
+{
+  "field_0": "node",
+  "field_1": "Australia",
+  "field_2": "-12.4634",
+  "field_3": "130.8456",
+  "field_4": "28"
+},
+{
+  "field_0": "node",
+  "field_1": "Australia",
+  "field_2": "-28.0167",
+  "field_3": "153.4",
+  "field_4": "1026"
+},
+{
+  "field_0": "node",
+  "field_1": "Australia",
+  "field_2": "-34.9285",
+  "field_3": "138.6007",
+  "field_4": "438"
+},
+{
+  "field_0": "node",
+  "field_1": "Australia",
+  "field_2": "-41.4545",
+  "field_3": "145.9707",
+  "field_4": "207"
+},
+{
+  "field_0": "node",
+  "field_1": "Australia",
+  "field_2": "-37.8136",
+  "field_3": "144.9631",
+  "field_4": "1337"
+},
+{
+  "field_0": "node",
+  "field_1": "Australia",
+  "field_2": "-31.9505",
+  "field_3": "115.8605",
+  "field_4": "546"
+},
+{
+  "field_0": "node",
+  "field_1": "Austria",
+  "field_2": "47.5162",
+  "field_3": "14.5501",
+  "field_4": "15002"
+},
+{
+  "field_0": "node",
+  "field_1": "Azerbaijan",
+  "field_2": "40.1431",
+  "field_3": "47.5769",
+  "field_4": "1548"
+},
+{
+  "field_0": "node",
+  "field_1": "Bahamas",
+  "field_2": "25.0343",
+  "field_3": "-77.3963",
+  "field_4": "72"
+},
+{
+  "field_0": "node",
+  "field_1": "Bahrain",
+  "field_2": "26.0275",
+  "field_3": "50.55",
+  "field_4": "2217"
+},
+{
+  "field_0": "node",
+  "field_1": "Bangladesh",
+  "field_2": "23.685",
+  "field_3": "90.3563",
+  "field_4": "4186"
+},
+{
+  "field_0": "node",
+  "field_1": "Barbados",
+  "field_2": "13.1939",
+  "field_3": "-59.5432",
+  "field_4": "76"
+},
+{
+  "field_0": "node",
+  "field_1": "Belarus",
+  "field_2": "53.7098",
+  "field_3": "27.9534",
+  "field_4": "8022"
+},
+{
+  "field_0": "node",
+  "field_1": "Belgium",
+  "field_2": "50.8333",
+  "field_3": "4.0",
+  "field_4": "42797"
+},
+{
+  "field_0": "node",
+  "field_1": "Benin",
+  "field_2": "9.3077",
+  "field_3": "2.3158",
+  "field_4": "54"
+},
+{
+  "field_0": "node",
+  "field_1": "Bhutan",
+  "field_2": "27.5142",
+  "field_3": "90.4336",
+  "field_4": "7"
+},
+{
+  "field_0": "node",
+  "field_1": "Bolivia",
+  "field_2": "-16.2902",
+  "field_3": "-63.5887",
+  "field_4": "703"
+},
+{
+  "field_0": "node",
+  "field_1": "Bosnia and Herzegovina",
+  "field_2": "43.9159",
+  "field_3": "17.6791",
+  "field_4": "1413"
+},
+{
+  "field_0": "node",
+  "field_1": "Brazil",
+  "field_2": "-14.235",
+  "field_3": "-51.9253",
+  "field_4": "50036"
+},
+{
+  "field_0": "node",
+  "field_1": "Brunei",
+  "field_2": "4.5353",
+  "field_3": "114.7277",
+  "field_4": "138"
+},
+{
+  "field_0": "node",
+  "field_1": "Bulgaria",
+  "field_2": "42.7339",
+  "field_3": "25.4858",
+  "field_4": "1097"
+},
+{
+  "field_0": "node",
+  "field_1": "Burkina Faso",
+  "field_2": "12.2383",
+  "field_3": "-1.5616",
+  "field_4": "616"
+},
+{
+  "field_0": "node",
+  "field_1": "Cabo Verde",
+  "field_2": "16.5388",
+  "field_3": "-23.0418",
+  "field_4": "82"
+},
+{
+  "field_0": "node",
+  "field_1": "Cambodia",
+  "field_2": "11.55",
+  "field_3": "104.9167",
+  "field_4": "122"
+},
+{
+  "field_0": "node",
+  "field_1": "Cameroon",
+  "field_2": "3.848",
+  "field_3": "11.5021",
+  "field_4": "1334"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "53.9333",
+  "field_3": "-116.5765",
+  "field_4": "3720"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "49.2827",
+  "field_3": "-123.1207",
+  "field_4": "1824"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "37.6489",
+  "field_3": "-122.6655",
+  "field_4": "-1"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "53.7609",
+  "field_3": "-98.8139",
+  "field_4": "262"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "46.5653",
+  "field_3": "-66.4619",
+  "field_4": "118"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "53.1355",
+  "field_3": "-57.6604",
+  "field_4": "256"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "44.682",
+  "field_3": "-63.7443",
+  "field_4": "827"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "51.2538",
+  "field_3": "-85.3232",
+  "field_4": "14068"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "46.5107",
+  "field_3": "-63.4168",
+  "field_4": "26"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "52.9399",
+  "field_3": "-73.5491",
+  "field_4": "21838"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "52.9399",
+  "field_3": "-106.4509",
+  "field_4": "331"
+},
+{
+  "field_0": "node",
+  "field_1": "Central African Republic",
+  "field_2": "6.6111",
+  "field_3": "20.9394",
+  "field_4": "16"
+},
+{
+  "field_0": "node",
+  "field_1": "Chad",
+  "field_2": "15.4542",
+  "field_3": "18.7322",
+  "field_4": "33"
+},
+{
+  "field_0": "node",
+  "field_1": "Chile",
+  "field_2": "-35.6751",
+  "field_3": "-71.543",
+  "field_4": "11812"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "31.8257",
+  "field_3": "117.2264",
+  "field_4": "991"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "40.1824",
+  "field_3": "116.4142",
+  "field_4": "593"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "30.0572",
+  "field_3": "107.874",
+  "field_4": "579"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "26.0789",
+  "field_3": "117.9874",
+  "field_4": "355"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "37.8099",
+  "field_3": "101.0583",
+  "field_4": "139"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "23.3417",
+  "field_3": "113.4244",
+  "field_4": "1585"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "23.8298",
+  "field_3": "108.7881",
+  "field_4": "254"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "26.8154",
+  "field_3": "106.8748",
+  "field_4": "147"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "19.1959",
+  "field_3": "109.7453",
+  "field_4": "168"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "39.549",
+  "field_3": "116.1306",
+  "field_4": "328"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "47.862",
+  "field_3": "127.7615",
+  "field_4": "928"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "33.882",
+  "field_3": "113.614",
+  "field_4": "1276"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "22.3",
+  "field_3": "114.2",
+  "field_4": "1035"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "30.9756",
+  "field_3": "112.2707",
+  "field_4": "68128"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "27.6104",
+  "field_3": "111.7088",
+  "field_4": "1019"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "44.0935",
+  "field_3": "113.9448",
+  "field_4": "194"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "32.9711",
+  "field_3": "119.455",
+  "field_4": "653"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "27.614",
+  "field_3": "115.7221",
+  "field_4": "937"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "43.6661",
+  "field_3": "126.1923",
+  "field_4": "108"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "41.2956",
+  "field_3": "122.6085",
+  "field_4": "146"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "22.1667",
+  "field_3": "113.55",
+  "field_4": "45"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "37.2692",
+  "field_3": "106.1655",
+  "field_4": "75"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "35.7452",
+  "field_3": "95.9956",
+  "field_4": "18"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "35.1917",
+  "field_3": "108.8701",
+  "field_4": "279"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "36.3427",
+  "field_3": "118.1498",
+  "field_4": "787"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "31.202",
+  "field_3": "121.4491",
+  "field_4": "641"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "37.5777",
+  "field_3": "112.2922",
+  "field_4": "197"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "30.6171",
+  "field_3": "102.7103",
+  "field_4": "561"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "39.3054",
+  "field_3": "117.323",
+  "field_4": "189"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "31.6927",
+  "field_3": "88.0924",
+  "field_4": "1"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "41.1129",
+  "field_3": "85.2401",
+  "field_4": "76"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "24.974",
+  "field_3": "101.487",
+  "field_4": "184"
+},
+{
+  "field_0": "node",
+  "field_1": "China",
+  "field_2": "29.1832",
+  "field_3": "120.0934",
+  "field_4": "1268"
+},
+{
+  "field_0": "node",
+  "field_1": "Colombia",
+  "field_2": "4.5709",
+  "field_3": "-74.2973",
+  "field_4": "4561"
+},
+{
+  "field_0": "node",
+  "field_1": "Congo (Brazzaville)",
+  "field_2": "-4.0383",
+  "field_3": "21.7587",
+  "field_4": "186"
+},
+{
+  "field_0": "node",
+  "field_1": "Congo (Kinshasa)",
+  "field_2": "-4.0383",
+  "field_3": "21.7587",
+  "field_4": "377"
+},
+{
+  "field_0": "node",
+  "field_1": "Costa Rica",
+  "field_2": "9.7489",
+  "field_3": "-83.7534",
+  "field_4": "686"
+},
+{
+  "field_0": "node",
+  "field_1": "Cote d'Ivoire",
+  "field_2": "7.54",
+  "field_3": "-5.5471",
+  "field_4": "1004"
+},
+{
+  "field_0": "node",
+  "field_1": "Croatia",
+  "field_2": "45.1",
+  "field_3": "15.2",
+  "field_4": "1981"
+},
+{
+  "field_0": "node",
+  "field_1": "Diamond Princess",
+  "field_2": "0.0",
+  "field_3": "0.0",
+  "field_4": "712"
+},
+{
+  "field_0": "node",
+  "field_1": "Cuba",
+  "field_2": "22.0",
+  "field_3": "-80.0",
+  "field_4": "1235"
+},
+{
+  "field_0": "node",
+  "field_1": "Cyprus",
+  "field_2": "35.1264",
+  "field_3": "33.4299",
+  "field_4": "795"
+},
+{
+  "field_0": "node",
+  "field_1": "Czechia",
+  "field_2": "49.8175",
+  "field_3": "15.473",
+  "field_4": "7187"
+},
+{
+  "field_0": "node",
+  "field_1": "Denmark",
+  "field_2": "61.8926",
+  "field_3": "-6.9118",
+  "field_4": "187"
+},
+{
+  "field_0": "node",
+  "field_1": "Denmark",
+  "field_2": "71.7069",
+  "field_3": "-42.6043",
+  "field_4": "11"
+},
+{
+  "field_0": "node",
+  "field_1": "Denmark",
+  "field_2": "56.2639",
+  "field_3": "9.5018",
+  "field_4": "8073"
+},
+{
+  "field_0": "node",
+  "field_1": "Djibouti",
+  "field_2": "11.8251",
+  "field_3": "42.5903",
+  "field_4": "986"
+},
+{
+  "field_0": "node",
+  "field_1": "Dominican Republic",
+  "field_2": "18.7357",
+  "field_3": "-70.1627",
+  "field_4": "5543"
+},
+{
+  "field_0": "node",
+  "field_1": "Ecuador",
+  "field_2": "-1.8312",
+  "field_3": "-78.1834",
+  "field_4": "11183"
+},
+{
+  "field_0": "node",
+  "field_1": "Egypt",
+  "field_2": "26.0",
+  "field_3": "30.0",
+  "field_4": "3891"
+},
+{
+  "field_0": "node",
+  "field_1": "El Salvador",
+  "field_2": "13.7942",
+  "field_3": "-88.8965",
+  "field_4": "250"
+},
+{
+  "field_0": "node",
+  "field_1": "Equatorial Guinea",
+  "field_2": "1.5",
+  "field_3": "10.0",
+  "field_4": "84"
+},
+{
+  "field_0": "node",
+  "field_1": "Eritrea",
+  "field_2": "15.1794",
+  "field_3": "39.7823",
+  "field_4": "39"
+},
+{
+  "field_0": "node",
+  "field_1": "Estonia",
+  "field_2": "58.5953",
+  "field_3": "25.0136",
+  "field_4": "1592"
+},
+{
+  "field_0": "node",
+  "field_1": "Eswatini",
+  "field_2": "-26.5225",
+  "field_3": "31.4659",
+  "field_4": "31"
+},
+{
+  "field_0": "node",
+  "field_1": "Ethiopia",
+  "field_2": "9.145",
+  "field_3": "40.4897",
+  "field_4": "116"
+},
+{
+  "field_0": "node",
+  "field_1": "Fiji",
+  "field_2": "-17.7134",
+  "field_3": "178.065",
+  "field_4": "18"
+},
+{
+  "field_0": "node",
+  "field_1": "Finland",
+  "field_2": "64.0",
+  "field_3": "26.0",
+  "field_4": "4284"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "3.9339",
+  "field_3": "-53.1258",
+  "field_4": "107"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "-17.6797",
+  "field_3": "149.4068",
+  "field_4": "57"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "16.25",
+  "field_3": "-61.5833",
+  "field_4": "148"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "-12.8275",
+  "field_3": "45.1662",
+  "field_4": "326"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "-20.9043",
+  "field_3": "165.618",
+  "field_4": "18"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "-21.1351",
+  "field_3": "55.2471",
+  "field_4": "412"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "17.9",
+  "field_3": "-62.8333",
+  "field_4": "6"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "18.0708",
+  "field_3": "-63.0501",
+  "field_4": "38"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "14.6415",
+  "field_3": "-61.0242",
+  "field_4": "164"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "46.2276",
+  "field_3": "2.2137",
+  "field_4": "158183"
+},
+{
+  "field_0": "node",
+  "field_1": "Gabon",
+  "field_2": "-0.8037",
+  "field_3": "11.6094",
+  "field_4": "167"
+},
+{
+  "field_0": "node",
+  "field_1": "Gambia",
+  "field_2": "13.4432",
+  "field_3": "-15.3101",
+  "field_4": "10"
+},
+{
+  "field_0": "node",
+  "field_1": "Georgia",
+  "field_2": "42.3154",
+  "field_3": "43.3569",
+  "field_4": "425"
+},
+{
+  "field_0": "node",
+  "field_1": "Germany",
+  "field_2": "51.0",
+  "field_3": "9.0",
+  "field_4": "153129"
+},
+{
+  "field_0": "node",
+  "field_1": "Ghana",
+  "field_2": "7.9465",
+  "field_3": "-1.0232",
+  "field_4": "1154"
+},
+{
+  "field_0": "node",
+  "field_1": "Greece",
+  "field_2": "39.0742",
+  "field_3": "21.8243",
+  "field_4": "2463"
+},
+{
+  "field_0": "node",
+  "field_1": "Guatemala",
+  "field_2": "15.7835",
+  "field_3": "-90.2308",
+  "field_4": "384"
+},
+{
+  "field_0": "node",
+  "field_1": "Guinea",
+  "field_2": "9.9456",
+  "field_3": "-9.6966",
+  "field_4": "862"
+},
+{
+  "field_0": "node",
+  "field_1": "Guyana",
+  "field_2": "5.0",
+  "field_3": "-58.75",
+  "field_4": "70"
+},
+{
+  "field_0": "node",
+  "field_1": "Haiti",
+  "field_2": "18.9712",
+  "field_3": "-72.2852",
+  "field_4": "72"
+},
+{
+  "field_0": "node",
+  "field_1": "Holy See",
+  "field_2": "41.9029",
+  "field_3": "12.4534",
+  "field_4": "9"
+},
+{
+  "field_0": "node",
+  "field_1": "Honduras",
+  "field_2": "15.2",
+  "field_3": "-86.2419",
+  "field_4": "519"
+},
+{
+  "field_0": "node",
+  "field_1": "Hungary",
+  "field_2": "47.1625",
+  "field_3": "19.5033",
+  "field_4": "2284"
+},
+{
+  "field_0": "node",
+  "field_1": "Iceland",
+  "field_2": "64.9631",
+  "field_3": "-19.0208",
+  "field_4": "1789"
+},
+{
+  "field_0": "node",
+  "field_1": "India",
+  "field_2": "21.0",
+  "field_3": "78.0",
+  "field_4": "23077"
+},
+{
+  "field_0": "node",
+  "field_1": "Indonesia",
+  "field_2": "-0.7893",
+  "field_3": "113.9213",
+  "field_4": "7775"
+},
+{
+  "field_0": "node",
+  "field_1": "Iran",
+  "field_2": "32.0",
+  "field_3": "53.0",
+  "field_4": "87026"
+},
+{
+  "field_0": "node",
+  "field_1": "Iraq",
+  "field_2": "33.0",
+  "field_3": "44.0",
+  "field_4": "1677"
+},
+{
+  "field_0": "node",
+  "field_1": "Ireland",
+  "field_2": "53.1424",
+  "field_3": "-7.6921",
+  "field_4": "17607"
+},
+{
+  "field_0": "node",
+  "field_1": "Israel",
+  "field_2": "31.0",
+  "field_3": "35.0",
+  "field_4": "14803"
+},
+{
+  "field_0": "node",
+  "field_1": "Italy",
+  "field_2": "43.0",
+  "field_3": "12.0",
+  "field_4": "189973"
+},
+{
+  "field_0": "node",
+  "field_1": "Jamaica",
+  "field_2": "18.1096",
+  "field_3": "-77.2975",
+  "field_4": "257"
+},
+{
+  "field_0": "node",
+  "field_1": "Japan",
+  "field_2": "36.0",
+  "field_3": "138.0",
+  "field_4": "12368"
+},
+{
+  "field_0": "node",
+  "field_1": "Jordan",
+  "field_2": "31.24",
+  "field_3": "36.51",
+  "field_4": "437"
+},
+{
+  "field_0": "node",
+  "field_1": "Kazakhstan",
+  "field_2": "48.0196",
+  "field_3": "66.9237",
+  "field_4": "2289"
+},
+{
+  "field_0": "node",
+  "field_1": "Kenya",
+  "field_2": "-0.0236",
+  "field_3": "37.9062",
+  "field_4": "320"
+},
+{
+  "field_0": "node",
+  "field_1": "Korea, South",
+  "field_2": "36.0",
+  "field_3": "128.0",
+  "field_4": "10708"
+},
+{
+  "field_0": "node",
+  "field_1": "Kuwait",
+  "field_2": "29.5",
+  "field_3": "47.75",
+  "field_4": "2399"
+},
+{
+  "field_0": "node",
+  "field_1": "Kyrgyzstan",
+  "field_2": "41.2044",
+  "field_3": "74.7661",
+  "field_4": "631"
+},
+{
+  "field_0": "node",
+  "field_1": "Latvia",
+  "field_2": "56.8796",
+  "field_3": "24.6032",
+  "field_4": "778"
+},
+{
+  "field_0": "node",
+  "field_1": "Lebanon",
+  "field_2": "33.8547",
+  "field_3": "35.8623",
+  "field_4": "688"
+},
+{
+  "field_0": "node",
+  "field_1": "Liberia",
+  "field_2": "6.4281",
+  "field_3": "-9.4295",
+  "field_4": "101"
+},
+{
+  "field_0": "node",
+  "field_1": "Liechtenstein",
+  "field_2": "47.14",
+  "field_3": "9.55",
+  "field_4": "81"
+},
+{
+  "field_0": "node",
+  "field_1": "Lithuania",
+  "field_2": "55.1694",
+  "field_3": "23.8813",
+  "field_4": "1398"
+},
+{
+  "field_0": "node",
+  "field_1": "Luxembourg",
+  "field_2": "49.8153",
+  "field_3": "6.1296",
+  "field_4": "3665"
+},
+{
+  "field_0": "node",
+  "field_1": "Madagascar",
+  "field_2": "-18.7669",
+  "field_3": "46.8691",
+  "field_4": "121"
+},
+{
+  "field_0": "node",
+  "field_1": "Malaysia",
+  "field_2": "2.5",
+  "field_3": "112.5",
+  "field_4": "5603"
+},
+{
+  "field_0": "node",
+  "field_1": "Maldives",
+  "field_2": "3.2028",
+  "field_3": "73.2207",
+  "field_4": "108"
+},
+{
+  "field_0": "node",
+  "field_1": "Malta",
+  "field_2": "35.9375",
+  "field_3": "14.3754",
+  "field_4": "445"
+},
+{
+  "field_0": "node",
+  "field_1": "Mauritania",
+  "field_2": "21.0079",
+  "field_3": "10.9408",
+  "field_4": "7"
+},
+{
+  "field_0": "node",
+  "field_1": "Mauritius",
+  "field_2": "-20.2",
+  "field_3": "57.5",
+  "field_4": "331"
+},
+{
+  "field_0": "node",
+  "field_1": "Mexico",
+  "field_2": "23.6345",
+  "field_3": "-102.5528",
+  "field_4": "11633"
+},
+{
+  "field_0": "node",
+  "field_1": "Moldova",
+  "field_2": "47.4116",
+  "field_3": "28.3699",
+  "field_4": "2926"
+},
+{
+  "field_0": "node",
+  "field_1": "Monaco",
+  "field_2": "43.7333",
+  "field_3": "7.4167",
+  "field_4": "94"
+},
+{
+  "field_0": "node",
+  "field_1": "Mongolia",
+  "field_2": "46.8625",
+  "field_3": "103.8467",
+  "field_4": "36"
+},
+{
+  "field_0": "node",
+  "field_1": "Montenegro",
+  "field_2": "42.5",
+  "field_3": "19.3",
+  "field_4": "316"
+},
+{
+  "field_0": "node",
+  "field_1": "Morocco",
+  "field_2": "31.7917",
+  "field_3": "-7.0926",
+  "field_4": "3568"
+},
+{
+  "field_0": "node",
+  "field_1": "Namibia",
+  "field_2": "-22.9576",
+  "field_3": "18.4904",
+  "field_4": "16"
+},
+{
+  "field_0": "node",
+  "field_1": "Nepal",
+  "field_2": "28.1667",
+  "field_3": "84.25",
+  "field_4": "48"
+},
+{
+  "field_0": "node",
+  "field_1": "Netherlands",
+  "field_2": "12.5186",
+  "field_3": "-70.0358",
+  "field_4": "100"
+},
+{
+  "field_0": "node",
+  "field_1": "Netherlands",
+  "field_2": "12.1696",
+  "field_3": "-68.99",
+  "field_4": "14"
+},
+{
+  "field_0": "node",
+  "field_1": "Netherlands",
+  "field_2": "18.0425",
+  "field_3": "-63.0548",
+  "field_4": "73"
+},
+{
+  "field_0": "node",
+  "field_1": "Netherlands",
+  "field_2": "52.1326",
+  "field_3": "5.2913",
+  "field_4": "35729"
+},
+{
+  "field_0": "node",
+  "field_1": "New Zealand",
+  "field_2": "-40.9006",
+  "field_3": "174.886",
+  "field_4": "1456"
+},
+{
+  "field_0": "node",
+  "field_1": "Nicaragua",
+  "field_2": "12.8654",
+  "field_3": "-85.2072",
+  "field_4": "11"
+},
+{
+  "field_0": "node",
+  "field_1": "Niger",
+  "field_2": "17.6078",
+  "field_3": "8.0817",
+  "field_4": "671"
+},
+{
+  "field_0": "node",
+  "field_1": "Nigeria",
+  "field_2": "9.082",
+  "field_3": "8.6753",
+  "field_4": "981"
+},
+{
+  "field_0": "node",
+  "field_1": "North Macedonia",
+  "field_2": "41.6086",
+  "field_3": "21.7453",
+  "field_4": "1300"
+},
+{
+  "field_0": "node",
+  "field_1": "Norway",
+  "field_2": "60.472",
+  "field_3": "8.4689",
+  "field_4": "7401"
+},
+{
+  "field_0": "node",
+  "field_1": "Oman",
+  "field_2": "21.0",
+  "field_3": "57.0",
+  "field_4": "1716"
+},
+{
+  "field_0": "node",
+  "field_1": "Pakistan",
+  "field_2": "30.3753",
+  "field_3": "69.3451",
+  "field_4": "11155"
+},
+{
+  "field_0": "node",
+  "field_1": "Panama",
+  "field_2": "8.538",
+  "field_3": "-80.7821",
+  "field_4": "5166"
+},
+{
+  "field_0": "node",
+  "field_1": "Papua New Guinea",
+  "field_2": "-6.315",
+  "field_3": "143.9555",
+  "field_4": "8"
+},
+{
+  "field_0": "node",
+  "field_1": "Paraguay",
+  "field_2": "-23.4425",
+  "field_3": "-58.4438",
+  "field_4": "213"
+},
+{
+  "field_0": "node",
+  "field_1": "Peru",
+  "field_2": "-9.19",
+  "field_3": "-75.0152",
+  "field_4": "20914"
+},
+{
+  "field_0": "node",
+  "field_1": "Philippines",
+  "field_2": "13.0",
+  "field_3": "122.0",
+  "field_4": "6981"
+},
+{
+  "field_0": "node",
+  "field_1": "Poland",
+  "field_2": "51.9194",
+  "field_3": "19.1451",
+  "field_4": "10511"
+},
+{
+  "field_0": "node",
+  "field_1": "Portugal",
+  "field_2": "39.3999",
+  "field_3": "-8.2245",
+  "field_4": "22353"
+},
+{
+  "field_0": "node",
+  "field_1": "Qatar",
+  "field_2": "25.3548",
+  "field_3": "51.1839",
+  "field_4": "7764"
+},
+{
+  "field_0": "node",
+  "field_1": "Romania",
+  "field_2": "45.9432",
+  "field_3": "24.9668",
+  "field_4": "10096"
+},
+{
+  "field_0": "node",
+  "field_1": "Russia",
+  "field_2": "60.0",
+  "field_3": "90.0",
+  "field_4": "62773"
+},
+{
+  "field_0": "node",
+  "field_1": "Rwanda",
+  "field_2": "-1.9403",
+  "field_3": "29.8739",
+  "field_4": "154"
+},
+{
+  "field_0": "node",
+  "field_1": "Saint Lucia",
+  "field_2": "13.9094",
+  "field_3": "-60.9789",
+  "field_4": "15"
+},
+{
+  "field_0": "node",
+  "field_1": "Saint Vincent and the Grenadines",
+  "field_2": "12.9843",
+  "field_3": "-61.2872",
+  "field_4": "13"
+},
+{
+  "field_0": "node",
+  "field_1": "San Marino",
+  "field_2": "43.9424",
+  "field_3": "12.4578",
+  "field_4": "501"
+},
+{
+  "field_0": "node",
+  "field_1": "Saudi Arabia",
+  "field_2": "24.0",
+  "field_3": "45.0",
+  "field_4": "13930"
+},
+{
+  "field_0": "node",
+  "field_1": "Senegal",
+  "field_2": "14.4974",
+  "field_3": "-14.4524",
+  "field_4": "479"
+},
+{
+  "field_0": "node",
+  "field_1": "Serbia",
+  "field_2": "44.0165",
+  "field_3": "21.0059",
+  "field_4": "6630"
+},
+{
+  "field_0": "node",
+  "field_1": "Seychelles",
+  "field_2": "-4.6796",
+  "field_3": "55.492",
+  "field_4": "11"
+},
+{
+  "field_0": "node",
+  "field_1": "Singapore",
+  "field_2": "1.2833",
+  "field_3": "103.8333",
+  "field_4": "11178"
+},
+{
+  "field_0": "node",
+  "field_1": "Slovakia",
+  "field_2": "48.669",
+  "field_3": "19.699",
+  "field_4": "1325"
+},
+{
+  "field_0": "node",
+  "field_1": "Slovenia",
+  "field_2": "46.1512",
+  "field_3": "14.9955",
+  "field_4": "1366"
+},
+{
+  "field_0": "node",
+  "field_1": "Somalia",
+  "field_2": "5.1521",
+  "field_3": "46.1996",
+  "field_4": "328"
+},
+{
+  "field_0": "node",
+  "field_1": "South Africa",
+  "field_2": "-30.5595",
+  "field_3": "22.9375",
+  "field_4": "3953"
+},
+{
+  "field_0": "node",
+  "field_1": "Spain",
+  "field_2": "40.0",
+  "field_3": "-4.0",
+  "field_4": "213024"
+},
+{
+  "field_0": "node",
+  "field_1": "Sri Lanka",
+  "field_2": "7.0",
+  "field_3": "81.0",
+  "field_4": "368"
+},
+{
+  "field_0": "node",
+  "field_1": "Sudan",
+  "field_2": "12.8628",
+  "field_3": "30.2176",
+  "field_4": "174"
+},
+{
+  "field_0": "node",
+  "field_1": "Suriname",
+  "field_2": "3.9193",
+  "field_3": "-56.0278",
+  "field_4": "10"
+},
+{
+  "field_0": "node",
+  "field_1": "Sweden",
+  "field_2": "63.0",
+  "field_3": "16.0",
+  "field_4": "16755"
+},
+{
+  "field_0": "node",
+  "field_1": "Switzerland",
+  "field_2": "46.8182",
+  "field_3": "8.2275",
+  "field_4": "28496"
+},
+{
+  "field_0": "node",
+  "field_1": "Taiwan*",
+  "field_2": "23.7",
+  "field_3": "121.0",
+  "field_4": "427"
+},
+{
+  "field_0": "node",
+  "field_1": "Tanzania",
+  "field_2": "-6.369",
+  "field_3": "34.8888",
+  "field_4": "284"
+},
+{
+  "field_0": "node",
+  "field_1": "Thailand",
+  "field_2": "15.0",
+  "field_3": "101.0",
+  "field_4": "2839"
+},
+{
+  "field_0": "node",
+  "field_1": "Togo",
+  "field_2": "8.6195",
+  "field_3": "0.8248",
+  "field_4": "88"
+},
+{
+  "field_0": "node",
+  "field_1": "Trinidad and Tobago",
+  "field_2": "10.6918",
+  "field_3": "-61.2225",
+  "field_4": "115"
+},
+{
+  "field_0": "node",
+  "field_1": "Tunisia",
+  "field_2": "34.0",
+  "field_3": "9.0",
+  "field_4": "918"
+},
+{
+  "field_0": "node",
+  "field_1": "Turkey",
+  "field_2": "38.9637",
+  "field_3": "35.2433",
+  "field_4": "101790"
+},
+{
+  "field_0": "node",
+  "field_1": "Uganda",
+  "field_2": "1.0",
+  "field_3": "32.0",
+  "field_4": "74"
+},
+{
+  "field_0": "node",
+  "field_1": "Ukraine",
+  "field_2": "48.3794",
+  "field_3": "31.1656",
+  "field_4": "7170"
+},
+{
+  "field_0": "node",
+  "field_1": "United Arab Emirates",
+  "field_2": "24.0",
+  "field_3": "54.0",
+  "field_4": "8756"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "32.3078",
+  "field_3": "-64.7505",
+  "field_4": "99"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "19.3133",
+  "field_3": "-81.2546",
+  "field_4": "66"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "49.3723",
+  "field_3": "-2.3644",
+  "field_4": "521"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "36.1408",
+  "field_3": "-5.3536",
+  "field_4": "133"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "54.2361",
+  "field_3": "-4.5481",
+  "field_4": "307"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "16.7425",
+  "field_3": "-62.1874",
+  "field_4": "11"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "55.3781",
+  "field_3": "-3.4360000000000000",
+  "field_4": "138078"
+},
+{
+  "field_0": "node",
+  "field_1": "Uruguay",
+  "field_2": "-32.5228",
+  "field_3": "-55.7658",
+  "field_4": "557"
+},
+{
+  "field_0": "node",
+  "field_1": "US",
+  "field_2": "37.0902",
+  "field_3": "-95.7129",
+  "field_4": "869170"
+},
+{
+  "field_0": "node",
+  "field_1": "Uzbekistan",
+  "field_2": "41.3775",
+  "field_3": "64.5853",
+  "field_4": "1758"
+},
+{
+  "field_0": "node",
+  "field_1": "Venezuela",
+  "field_2": "6.4238",
+  "field_3": "-66.5897",
+  "field_4": "311"
+},
+{
+  "field_0": "node",
+  "field_1": "Vietnam",
+  "field_2": "16.0",
+  "field_3": "108.0",
+  "field_4": "268"
+},
+{
+  "field_0": "node",
+  "field_1": "Zambia",
+  "field_2": "-15.4167",
+  "field_3": "28.2833",
+  "field_4": "76"
+},
+{
+  "field_0": "node",
+  "field_1": "Zimbabwe",
+  "field_2": "-20.0",
+  "field_3": "30.0",
+  "field_4": "28"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "0.0",
+  "field_3": "0.0",
+  "field_4": "0"
+},
+{
+  "field_0": "node",
+  "field_1": "Dominica",
+  "field_2": "15.415",
+  "field_3": "-61.371",
+  "field_4": "16"
+},
+{
+  "field_0": "node",
+  "field_1": "Grenada",
+  "field_2": "12.1165",
+  "field_3": "-61.679",
+  "field_4": "15"
+},
+{
+  "field_0": "node",
+  "field_1": "Mozambique",
+  "field_2": "-18.665695",
+  "field_3": "35.529562",
+  "field_4": "46"
+},
+{
+  "field_0": "node",
+  "field_1": "Syria",
+  "field_2": "34.802075",
+  "field_3": "38.99681500000000",
+  "field_4": "42"
+},
+{
+  "field_0": "node",
+  "field_1": "Timor-Leste",
+  "field_2": "-8.874217",
+  "field_3": "125.727539",
+  "field_4": "23"
+},
+{
+  "field_0": "node",
+  "field_1": "Belize",
+  "field_2": "13.1939",
+  "field_3": "-59.5432",
+  "field_4": "18"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "0.0",
+  "field_3": "0.0",
+  "field_4": "0"
+},
+{
+  "field_0": "node",
+  "field_1": "Laos",
+  "field_2": "19.85627",
+  "field_3": "102.495496",
+  "field_4": "19"
+},
+{
+  "field_0": "node",
+  "field_1": "Libya",
+  "field_2": "26.3351",
+  "field_3": "17.228331",
+  "field_4": "60"
+},
+{
+  "field_0": "node",
+  "field_1": "West Bank and Gaza",
+  "field_2": "31.9522",
+  "field_3": "35.2332",
+  "field_4": "480"
+},
+{
+  "field_0": "node",
+  "field_1": "Guinea-Bissau",
+  "field_2": "11.8037",
+  "field_3": "-15.1804",
+  "field_4": "50"
+},
+{
+  "field_0": "node",
+  "field_1": "Mali",
+  "field_2": "17.570692",
+  "field_3": "-3.996166000000000",
+  "field_4": "309"
+},
+{
+  "field_0": "node",
+  "field_1": "Saint Kitts and Nevis",
+  "field_2": "17.357822",
+  "field_3": "-62.782998",
+  "field_4": "15"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "64.8255",
+  "field_3": "-124.8457",
+  "field_4": "5"
+},
+{
+  "field_0": "node",
+  "field_1": "Canada",
+  "field_2": "64.2823",
+  "field_3": "-135.0",
+  "field_4": "11"
+},
+{
+  "field_0": "node",
+  "field_1": "Kosovo",
+  "field_2": "42.602636",
+  "field_3": "20.902977",
+  "field_4": "510"
+},
+{
+  "field_0": "node",
+  "field_1": "Burma",
+  "field_2": "21.9162",
+  "field_3": "95.956",
+  "field_4": "139"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "18.2206",
+  "field_3": "-63.0686",
+  "field_4": "3"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "18.4207",
+  "field_3": "-64.64",
+  "field_4": "5"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "21.694000000000000",
+  "field_3": "-71.7979",
+  "field_4": "11"
+},
+{
+  "field_0": "node",
+  "field_1": "MS Zaandam",
+  "field_2": "0.0",
+  "field_3": "0.0",
+  "field_4": "9"
+},
+{
+  "field_0": "node",
+  "field_1": "Botswana",
+  "field_2": "-22.3285",
+  "field_3": "24.6849",
+  "field_4": "22"
+},
+{
+  "field_0": "node",
+  "field_1": "Burundi",
+  "field_2": "-3.3731",
+  "field_3": "29.9189",
+  "field_4": "11"
+},
+{
+  "field_0": "node",
+  "field_1": "Sierra Leone",
+  "field_2": "8.460555000000000",
+  "field_3": "-11.779889",
+  "field_4": "64"
+},
+{
+  "field_0": "node",
+  "field_1": "Netherlands",
+  "field_2": "12.1784",
+  "field_3": "-68.2385",
+  "field_4": "5"
+},
+{
+  "field_0": "node",
+  "field_1": "Malawi",
+  "field_2": "-13.254308000000000",
+  "field_3": "34.301525",
+  "field_4": "33"
+},
+{
+  "field_0": "node",
+  "field_1": "United Kingdom",
+  "field_2": "-51.7963",
+  "field_3": "-59.5236",
+  "field_4": "12"
+},
+{
+  "field_0": "node",
+  "field_1": "France",
+  "field_2": "46.8852",
+  "field_3": "-56.3159",
+  "field_4": "1"
+},
+{
+  "field_0": "node",
+  "field_1": "South Sudan",
+  "field_2": "6.877000000000000",
+  "field_3": "31.307",
+  "field_4": "5"
+},
+{
+  "field_0": "node",
+  "field_1": "Western Sahara",
+  "field_2": "24.2155",
+  "field_3": "-12.8858",
+  "field_4": "6"
+},
+{
+  "field_0": "node",
+  "field_1": "Sao Tome and Principe",
+  "field_2": "0.18636",
+  "field_3": "6.613081",
+  "field_4": "4"
+}]

@@ -1,0 +1,265 @@
+type,Country/Region,Lat,Long,4/23/20,type
+node,Afghanistan,33.0,65.0,1279,node
+node,Albania,41.1533,20.1683,663,node
+node,Algeria,28.0339,1.6596,3007,node
+node,Andorra,42.5063,1.5218,723,node
+node,Angola,-11.2027,17.8739,25,node
+node,Antigua and Barbuda,17.0608,-61.7964,24,node
+node,Argentina,-38.4161,-63.6167,3435,node
+node,Armenia,40.0691,45.0382,1523,node
+node,Australia,-35.4735,149.0124,104,node
+node,Australia,-33.8688,151.2093,2976,node
+node,Australia,-12.4634,130.8456,28,node
+node,Australia,-28.0167,153.4,1026,node
+node,Australia,-34.9285,138.6007,438,node
+node,Australia,-41.4545,145.9707,207,node
+node,Australia,-37.8136,144.9631,1337,node
+node,Australia,-31.9505,115.8605,546,node
+node,Austria,47.5162,14.5501,15002,node
+node,Azerbaijan,40.1431,47.5769,1548,node
+node,Bahamas,25.0343,-77.3963,72,node
+node,Bahrain,26.0275,50.55,2217,node
+node,Bangladesh,23.685,90.3563,4186,node
+node,Barbados,13.1939,-59.5432,76,node
+node,Belarus,53.7098,27.9534,8022,node
+node,Belgium,50.8333,4.0,42797,node
+node,Benin,9.3077,2.3158,54,node
+node,Bhutan,27.5142,90.4336,7,node
+node,Bolivia,-16.2902,-63.5887,703,node
+node,Bosnia and Herzegovina,43.9159,17.6791,1413,node
+node,Brazil,-14.235,-51.9253,50036,node
+node,Brunei,4.5353,114.7277,138,node
+node,Bulgaria,42.7339,25.4858,1097,node
+node,Burkina Faso,12.2383,-1.5616,616,node
+node,Cabo Verde,16.5388,-23.0418,82,node
+node,Cambodia,11.55,104.9167,122,node
+node,Cameroon,3.848,11.5021,1334,node
+node,Canada,53.9333,-116.5765,3720,node
+node,Canada,49.2827,-123.1207,1824,node
+node,Canada,37.6489,-122.6655,-1,node
+node,Canada,53.7609,-98.8139,262,node
+node,Canada,46.5653,-66.4619,118,node
+node,Canada,53.1355,-57.6604,256,node
+node,Canada,44.682,-63.7443,827,node
+node,Canada,51.2538,-85.3232,14068,node
+node,Canada,46.5107,-63.4168,26,node
+node,Canada,52.9399,-73.5491,21838,node
+node,Canada,52.9399,-106.4509,331,node
+node,Central African Republic,6.6111,20.9394,16,node
+node,Chad,15.4542,18.7322,33,node
+node,Chile,-35.6751,-71.543,11812,node
+node,China,31.8257,117.2264,991,node
+node,China,40.1824,116.4142,593,node
+node,China,30.0572,107.874,579,node
+node,China,26.0789,117.9874,355,node
+node,China,37.8099,101.0583,139,node
+node,China,23.3417,113.4244,1585,node
+node,China,23.8298,108.7881,254,node
+node,China,26.8154,106.8748,147,node
+node,China,19.1959,109.7453,168,node
+node,China,39.549,116.1306,328,node
+node,China,47.862,127.7615,928,node
+node,China,33.882,113.614,1276,node
+node,China,22.3,114.2,1035,node
+node,China,30.9756,112.2707,68128,node
+node,China,27.6104,111.7088,1019,node
+node,China,44.0935,113.9448,194,node
+node,China,32.9711,119.455,653,node
+node,China,27.614,115.7221,937,node
+node,China,43.6661,126.1923,108,node
+node,China,41.2956,122.6085,146,node
+node,China,22.1667,113.55,45,node
+node,China,37.2692,106.1655,75,node
+node,China,35.7452,95.9956,18,node
+node,China,35.1917,108.8701,279,node
+node,China,36.3427,118.1498,787,node
+node,China,31.202,121.4491,641,node
+node,China,37.5777,112.2922,197,node
+node,China,30.6171,102.7103,561,node
+node,China,39.3054,117.323,189,node
+node,China,31.6927,88.0924,1,node
+node,China,41.1129,85.2401,76,node
+node,China,24.974,101.487,184,node
+node,China,29.1832,120.0934,1268,node
+node,Colombia,4.5709,-74.2973,4561,node
+node,Congo (Brazzaville),-4.0383,21.7587,186,node
+node,Congo (Kinshasa),-4.0383,21.7587,377,node
+node,Costa Rica,9.7489,-83.7534,686,node
+node,Cote d'Ivoire,7.54,-5.5471,1004,node
+node,Croatia,45.1,15.2,1981,node
+node,Diamond Princess,0.0,0.0,712,node
+node,Cuba,22.0,-80.0,1235,node
+node,Cyprus,35.1264,33.4299,795,node
+node,Czechia,49.8175,15.473,7187,node
+node,Denmark,61.8926,-6.9118,187,node
+node,Denmark,71.7069,-42.6043,11,node
+node,Denmark,56.2639,9.5018,8073,node
+node,Djibouti,11.8251,42.5903,986,node
+node,Dominican Republic,18.7357,-70.1627,5543,node
+node,Ecuador,-1.8312,-78.1834,11183,node
+node,Egypt,26.0,30.0,3891,node
+node,El Salvador,13.7942,-88.8965,250,node
+node,Equatorial Guinea,1.5,10.0,84,node
+node,Eritrea,15.1794,39.7823,39,node
+node,Estonia,58.5953,25.0136,1592,node
+node,Eswatini,-26.5225,31.4659,31,node
+node,Ethiopia,9.145,40.4897,116,node
+node,Fiji,-17.7134,178.065,18,node
+node,Finland,64.0,26.0,4284,node
+node,France,3.9339,-53.1258,107,node
+node,France,-17.6797,149.4068,57,node
+node,France,16.25,-61.5833,148,node
+node,France,-12.8275,45.1662,326,node
+node,France,-20.9043,165.618,18,node
+node,France,-21.1351,55.2471,412,node
+node,France,17.9,-62.8333,6,node
+node,France,18.0708,-63.0501,38,node
+node,France,14.6415,-61.0242,164,node
+node,France,46.2276,2.2137,158183,node
+node,Gabon,-0.8037,11.6094,167,node
+node,Gambia,13.4432,-15.3101,10,node
+node,Georgia,42.3154,43.3569,425,node
+node,Germany,51.0,9.0,153129,node
+node,Ghana,7.9465,-1.0232,1154,node
+node,Greece,39.0742,21.8243,2463,node
+node,Guatemala,15.7835,-90.2308,384,node
+node,Guinea,9.9456,-9.6966,862,node
+node,Guyana,5.0,-58.75,70,node
+node,Haiti,18.9712,-72.2852,72,node
+node,Holy See,41.9029,12.4534,9,node
+node,Honduras,15.2,-86.2419,519,node
+node,Hungary,47.1625,19.5033,2284,node
+node,Iceland,64.9631,-19.0208,1789,node
+node,India,21.0,78.0,23077,node
+node,Indonesia,-0.7893,113.9213,7775,node
+node,Iran,32.0,53.0,87026,node
+node,Iraq,33.0,44.0,1677,node
+node,Ireland,53.1424,-7.6921,17607,node
+node,Israel,31.0,35.0,14803,node
+node,Italy,43.0,12.0,189973,node
+node,Jamaica,18.1096,-77.2975,257,node
+node,Japan,36.0,138.0,12368,node
+node,Jordan,31.24,36.51,437,node
+node,Kazakhstan,48.0196,66.9237,2289,node
+node,Kenya,-0.0236,37.9062,320,node
+node,"Korea, South",36.0,128.0,10708,node
+node,Kuwait,29.5,47.75,2399,node
+node,Kyrgyzstan,41.2044,74.7661,631,node
+node,Latvia,56.8796,24.6032,778,node
+node,Lebanon,33.8547,35.8623,688,node
+node,Liberia,6.4281,-9.4295,101,node
+node,Liechtenstein,47.14,9.55,81,node
+node,Lithuania,55.1694,23.8813,1398,node
+node,Luxembourg,49.8153,6.1296,3665,node
+node,Madagascar,-18.7669,46.8691,121,node
+node,Malaysia,2.5,112.5,5603,node
+node,Maldives,3.2028,73.2207,108,node
+node,Malta,35.9375,14.3754,445,node
+node,Mauritania,21.0079,10.9408,7,node
+node,Mauritius,-20.2,57.5,331,node
+node,Mexico,23.6345,-102.5528,11633,node
+node,Moldova,47.4116,28.3699,2926,node
+node,Monaco,43.7333,7.4167,94,node
+node,Mongolia,46.8625,103.8467,36,node
+node,Montenegro,42.5,19.3,316,node
+node,Morocco,31.7917,-7.0926,3568,node
+node,Namibia,-22.9576,18.4904,16,node
+node,Nepal,28.1667,84.25,48,node
+node,Netherlands,12.5186,-70.0358,100,node
+node,Netherlands,12.1696,-68.99,14,node
+node,Netherlands,18.0425,-63.0548,73,node
+node,Netherlands,52.1326,5.2913,35729,node
+node,New Zealand,-40.9006,174.886,1456,node
+node,Nicaragua,12.8654,-85.2072,11,node
+node,Niger,17.6078,8.0817,671,node
+node,Nigeria,9.082,8.6753,981,node
+node,North Macedonia,41.6086,21.7453,1300,node
+node,Norway,60.472,8.4689,7401,node
+node,Oman,21.0,57.0,1716,node
+node,Pakistan,30.3753,69.3451,11155,node
+node,Panama,8.538,-80.7821,5166,node
+node,Papua New Guinea,-6.315,143.9555,8,node
+node,Paraguay,-23.4425,-58.4438,213,node
+node,Peru,-9.19,-75.0152,20914,node
+node,Philippines,13.0,122.0,6981,node
+node,Poland,51.9194,19.1451,10511,node
+node,Portugal,39.3999,-8.2245,22353,node
+node,Qatar,25.3548,51.1839,7764,node
+node,Romania,45.9432,24.9668,10096,node
+node,Russia,60.0,90.0,62773,node
+node,Rwanda,-1.9403,29.8739,154,node
+node,Saint Lucia,13.9094,-60.9789,15,node
+node,Saint Vincent and the Grenadines,12.9843,-61.2872,13,node
+node,San Marino,43.9424,12.4578,501,node
+node,Saudi Arabia,24.0,45.0,13930,node
+node,Senegal,14.4974,-14.4524,479,node
+node,Serbia,44.0165,21.0059,6630,node
+node,Seychelles,-4.6796,55.492,11,node
+node,Singapore,1.2833,103.8333,11178,node
+node,Slovakia,48.669,19.699,1325,node
+node,Slovenia,46.1512,14.9955,1366,node
+node,Somalia,5.1521,46.1996,328,node
+node,South Africa,-30.5595,22.9375,3953,node
+node,Spain,40.0,-4.0,213024,node
+node,Sri Lanka,7.0,81.0,368,node
+node,Sudan,12.8628,30.2176,174,node
+node,Suriname,3.9193,-56.0278,10,node
+node,Sweden,63.0,16.0,16755,node
+node,Switzerland,46.8182,8.2275,28496,node
+node,Taiwan*,23.7,121.0,427,node
+node,Tanzania,-6.369,34.8888,284,node
+node,Thailand,15.0,101.0,2839,node
+node,Togo,8.6195,0.8248,88,node
+node,Trinidad and Tobago,10.6918,-61.2225,115,node
+node,Tunisia,34.0,9.0,918,node
+node,Turkey,38.9637,35.2433,101790,node
+node,Uganda,1.0,32.0,74,node
+node,Ukraine,48.3794,31.1656,7170,node
+node,United Arab Emirates,24.0,54.0,8756,node
+node,United Kingdom,32.3078,-64.7505,99,node
+node,United Kingdom,19.3133,-81.2546,66,node
+node,United Kingdom,49.3723,-2.3644,521,node
+node,United Kingdom,36.1408,-5.3536,133,node
+node,United Kingdom,54.2361,-4.5481,307,node
+node,United Kingdom,16.7425,-62.1874,11,node
+node,United Kingdom,55.3781,-3.4360000000000000,138078,node
+node,Uruguay,-32.5228,-55.7658,557,node
+node,US,37.0902,-95.7129,869170,node
+node,Uzbekistan,41.3775,64.5853,1758,node
+node,Venezuela,6.4238,-66.5897,311,node
+node,Vietnam,16.0,108.0,268,node
+node,Zambia,-15.4167,28.2833,76,node
+node,Zimbabwe,-20.0,30.0,28,node
+node,Canada,0.0,0.0,0,node
+node,Dominica,15.415,-61.371,16,node
+node,Grenada,12.1165,-61.679,15,node
+node,Mozambique,-18.665695,35.529562,46,node
+node,Syria,34.802075,38.99681500000000,42,node
+node,Timor-Leste,-8.874217,125.727539,23,node
+node,Belize,13.1939,-59.5432,18,node
+node,Canada,0.0,0.0,0,node
+node,Laos,19.85627,102.495496,19,node
+node,Libya,26.3351,17.228331,60,node
+node,West Bank and Gaza,31.9522,35.2332,480,node
+node,Guinea-Bissau,11.8037,-15.1804,50,node
+node,Mali,17.570692,-3.996166000000000,309,node
+node,Saint Kitts and Nevis,17.357822,-62.782998,15,node
+node,Canada,64.8255,-124.8457,5,node
+node,Canada,64.2823,-135.0,11,node
+node,Kosovo,42.602636,20.902977,510,node
+node,Burma,21.9162,95.956,139,node
+node,United Kingdom,18.2206,-63.0686,3,node
+node,United Kingdom,18.4207,-64.64,5,node
+node,United Kingdom,21.694000000000000,-71.7979,11,node
+node,MS Zaandam,0.0,0.0,9,node
+node,Botswana,-22.3285,24.6849,22,node
+node,Burundi,-3.3731,29.9189,11,node
+node,Sierra Leone,8.460555000000000,-11.779889,64,node
+node,Netherlands,12.1784,-68.2385,5,node
+node,Malawi,-13.254308000000000,34.301525,33,node
+node,United Kingdom,-51.7963,-59.5236,12,node
+node,France,46.8852,-56.3159,1,node
+node,South Sudan,6.877000000000000,31.307,5,node
+node,Western Sahara,24.2155,-12.8858,6,node
+node,Sao Tome and Principe,0.18636,6.613081,4,node
+node,Yemen,15.552727,48.516388,1,node
