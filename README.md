@@ -24,8 +24,16 @@ The total number of confirmed cases and deaths is a timeline from January to May
 
 The cofirmed cases for countries: China, US, UK, Italy, France, Germany, Spain, and Iran is a timeline from January to May 2020 displaying the total number of COVID-19 confrimed cases across each country.  The curve indicates that the numbers are continuing to rise. 
 
+Mortality rate in percenatage displays the total mortaility rate for global deaths on a timeline from January to May 2020.   
+
+The increase rate is a timeline that is based on the increase rate of confirmed cases from the previous day.
+
+The interactive graphs are currently provided by Data Hub.
+
 
 
 References:
-The Real Python course 'Make a Location-Based Web app with Django and GeoDjango' taught by Jackie Wilson was used as a template to help get the postgis map and leaflet set up on Django.  
+The Real Python course 'Make a Location-Based Web app with Django and GeoDjango' taught by Jackie Wilson was used as a template to help get the postgis map and leaflet set up on Django. 
+
+Data Hub. https://datahub.io/core/covid-19#python
 
