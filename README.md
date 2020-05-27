@@ -32,8 +32,9 @@ The interactive graphs are currently provided by Data Hub.
 
 
 
-References:
 
+
+References:
 Geographical map developed by Dwight Hall, IUPUI Bioinformatics student. 
 
 Search functions developed by Vivek Matcha, IUPUI Health informatics student.
