@@ -33,6 +33,11 @@ The interactive graphs are currently provided by Data Hub.
 
 
 References:
+
+Geographical map developed by Dwight Hall, IUPUI Bioinformatics student. 
+
+Search functions developed by Vivek Matcha, IUPUI Health informatics student.
+
 The Real Python course 'Make a Location-Based Web app with Django and GeoDjango' taught by Jackie Wilson was used as a template to help get the postgis map and leaflet set up on Django. 
 
 Data Hub. https://datahub.io/core/covid-19#python
