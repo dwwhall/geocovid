@@ -37,6 +37,7 @@ The increase rate is a timeline that is based on the increase rate of confirmed 
 #References:
 
 The interactive graphs are currently provided by Data Hub.
+
 Geographical map developed by Dwight Hall, IUPUI Bioinformatics student. 
 
 Search functions developed by Vivek Matcha, IUPUI Health informatics student.
