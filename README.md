@@ -28,13 +28,15 @@ Mortality rate in percenatage displays the total mortaility rate for global deat
 
 The increase rate is a timeline that is based on the increase rate of confirmed cases from the previous day.
 
-The interactive graphs are currently provided by Data Hub.
+
 
 
 
 
 
 #References:
+
+The interactive graphs are currently provided by Data Hub.
 Geographical map developed by Dwight Hall, IUPUI Bioinformatics student. 
 
 Search functions developed by Vivek Matcha, IUPUI Health informatics student.
